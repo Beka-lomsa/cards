@@ -1,0 +1,11 @@
+@font-face {
+  font-family: Outfit;
+  src: url(../src/fonts//Outfit-ExtraLight.ttf);
+}
+
+body {
+  width: 1440;
+  height: 900px;
+  position: relative;
+  background-color: #0D192C;
+}
